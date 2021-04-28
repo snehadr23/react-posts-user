@@ -1,0 +1,9 @@
+.post-titles .post-title {
+    width: 90%;
+    padding: 2%;
+    margin: 0 5% 2% 5%;
+    cursor: pointer;
+    /* background-color: grey;
+    border: 1px solid grey;
+    border-radius: 50%; */
+}

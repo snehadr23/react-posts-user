@@ -1,0 +1,9 @@
+.post-titles {
+    display: inline;
+    float: left;
+    max-height: 80%;
+    max-height: 63vh;
+    overflow-y: scroll;
+    scrollbar-track-color: transparent;
+    text-align: justify;
+}
