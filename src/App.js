@@ -1,4 +1,4 @@
-import './App.css';
+import                 './App.css';
 import PostTitles from './components/postTitles/PostTitles';
 
 function App() {
@@ -8,7 +8,6 @@ function App() {
         <h1>Posts by Users</h1>
       </header>
         <PostTitles/>
-
     </div>
   );
 }

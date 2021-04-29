@@ -1,9 +1,19 @@
 .post-titles .post-title {
     width: 90%;
     padding: 2%;
-    margin: 0 5% 2% 5%;
+    margin: 0 5% 0 5%;
     cursor: pointer;
-    /* background-color: grey;
-    border: 1px solid grey;
-    border-radius: 50%; */
+}
+
+.section .search{
+    text-align: left;
+    margin-left: 7%;
+}
+
+.section input {
+    padding: 2%;
+    font-size: 16px;
+    outline: none;
+    border: none;
+    border-radius: 2%;
 }
